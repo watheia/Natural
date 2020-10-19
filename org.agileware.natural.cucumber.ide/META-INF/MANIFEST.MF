@@ -10,7 +10,7 @@ Require-Bundle: org.agileware.natural.cucumber,
  org.eclipse.xtext.ide,
  org.eclipse.xtext.xbase.ide,
  org.antlr.runtime;bundle-version="[3.2.0,3.2.1)"
-Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-RequiredExecutionEnvironment: JavaSE-11
 Export-Package: org.agileware.natural.cucumber.ide.contentassist.antlr;
   uses:="org.eclipse.xtext.ide.editor.contentassist.antlr,
    org.eclipse.xtext.ide.editor.contentassist.antlr.internal,

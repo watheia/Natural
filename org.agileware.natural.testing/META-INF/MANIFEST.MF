@@ -4,7 +4,7 @@ Bundle-Name: Natural Test Helpers
 Bundle-SymbolicName: org.agileware.natural.testing
 Bundle-Version: 1.0.0.qualifier
 Automatic-Module-Name: org.agileware.natural.testing
-Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-RequiredExecutionEnvironment: JavaSE-11
 Export-Package: org.agileware.natural.testing;
   uses:="org.eclipse.xtext.testing.util,
    com.google.inject,

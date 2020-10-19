@@ -17,7 +17,7 @@ Require-Bundle: org.agileware.natural.stepmatcher;visibility:=reexport,
  org.eclipse.emf.common,
  org.eclipse.jdt.core,
  org.antlr.runtime;bundle-version="[3.2.0,3.2.1)"
-Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-RequiredExecutionEnvironment: JavaSE-11
 Export-Package: org.agileware.natural.cucumber;uses:="com.google.inject,org.eclipse.xtext.service,org.eclipse.xtext",
  org.agileware.natural.cucumber.cucumber;uses:="org.eclipse.emf.ecore,org.eclipse.emf.common.util,org.agileware.natural.lang.model",
  org.agileware.natural.cucumber.cucumber.impl;
